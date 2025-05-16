@@ -138,6 +138,7 @@ dist
 config.json
 model.nlp
 testfeatures.js
+.DS_Store
 
 dashboard/public/static/js/bundle.js
 dashboard/public/static/css/bundle.css
@@ -151,5 +152,6 @@ dashboard/public/static/js/bootstrap-table.js
 dashboard/public/static/js/libs/encrypt.js
 dashboard/public/static/js/editorjs.js
 dashboard/public/static/css/libs/select2.css
+dashboard/build/
 
 store/
